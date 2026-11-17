@@ -95,7 +95,7 @@ const D={
       ['Limbik','0419 904 237','https://www.limbik.com.au','Adelaide · demonstrations by appointment']],
   WA:[['Frank Prowse Hi-Fi','08 9386 8384','https://www.frankprowsehifi.com.au','Shop 1A, 174 Stirling Hwy, Nedlands']],
   NZN:[['Soundlab','09 271 4711','https://www.soundlab.co.nz','5E/2 Bishop Browne Pl, Flat Bush, Auckland'],
-       ['The Hi Fi Store','09 966 1020','https://www.thehifistore.co.nz','1/43 Apollo Dr, Rosedale, Auckland · by appointment']],
+       ['The Sound Store','09 520 2105','https://thesoundstore.nz','1/43 Apollo Dr, Rosedale, Auckland · by appointment']],
   NZS:[['HiFi Projects','0800 83 93 43','https://hifiprojects.co.nz','19 Pollock St, Alexandra, Central Otago'],
        ['New Zealand TV & HiFi','03 928 1161','https://www.nzhifi.nz','7 Battersea St, Sydenham, Christchurch']]
 };
