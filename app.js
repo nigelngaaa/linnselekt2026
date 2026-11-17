@@ -88,6 +88,9 @@ const D={
   VIC:[['Audio Trends','03 9874 8233','https://www.audiotrends.com.au','10 Argent Pl, Ringwood'],
        ['Sound Gallery','03 9578 8658','https://soundgallery.com.au','225–229 Koornang Rd, Carnegie'],
        ['Tivoli Hi-Fi','1800 848 654','https://tivolihifi.com.au','155–157 Camberwell Rd, Hawthorn East']],
+  QLD:[['Todds Hi-Fi','07 3907 7777','https://www.todds.com.au','1/308 New Cleveland Rd, Tingalpa'],
+       ['Trimira Audio','0452 088 986','https://trimira.com.au','202/14 Trafalgar St, Woolloongabba'],
+       ['GC Hi-Fi','0418 691 294','https://gc-hifi.com.au','Arundel, Gold Coast · by appointment']],
   SA:[['HiFi Guru','08 8122 5652','https://hifiguru.com.au','58 King William St, Kent Town'],
       ['Limbik','0419 904 237','https://www.limbik.com.au','Adelaide · demonstrations by appointment']],
   WA:[['Frank Prowse Hi-Fi','08 9386 8384','https://www.frankprowsehifi.com.au','Shop 1A, 174 Stirling Hwy, Nedlands']],
@@ -98,7 +101,7 @@ const D={
 };
 const NAME={NSW:'New South Wales',VIC:'Victoria',QLD:'Queensland',SA:'South Australia',WA:'Western Australia',TAS:'Tasmania',NT:'Northern Territory',ACT:'Australian Capital Territory',NZN:'North Island',NZS:'South Island'};
 const SHORT={NSW:'NSW',VIC:'VIC',QLD:'QLD',SA:'SA',WA:'WA',TAS:'TAS',NT:'NT',ACT:'ACT',NZN:'North Island',NZS:'South Island'};
-const NEAR={QLD:'NSW',ACT:'NSW',TAS:'VIC',NT:'SA'};
+const NEAR={ACT:'NSW',TAS:'VIC',NT:'SA'};
 const ORDER=['NSW','ACT','VIC','QLD','SA','WA','TAS','NT','NZN','NZS'];
 let sel=null;
 (function buildMap(){
